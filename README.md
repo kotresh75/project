@@ -1,5 +1,5 @@
 Remote change
-# Simple Starter Project
+# Simple Project
 
 This project contains a very small HTML, CSS, and JavaScript example.
 
